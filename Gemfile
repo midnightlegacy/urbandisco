@@ -6,5 +6,7 @@ gem 'faker'
 gem 'rake'
 gem 'rspec'
 gem 'pry'
+gem "passenger"
+
 
 gem 'rspec_junit_formatter', github: 'circleci/rspec_junit_formatter'
